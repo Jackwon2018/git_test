@@ -9,5 +9,6 @@ public class git1 {
         System.out.println("hello,git");
         System.out.println("hello,git");
         System.out.println("hello,git");
+        System.out.println("xiugai.git");
     }
 }
